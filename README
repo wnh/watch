@@ -1,0 +1,10 @@
+
+ Watch
+ =====
+
+Use kqueue to watch a directory and run hook scripts accordingly
+
+
+BSD Licence. See LICENSE
+
+
